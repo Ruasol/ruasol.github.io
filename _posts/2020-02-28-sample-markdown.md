@@ -2,7 +2,7 @@
 layout: post
 title: Ruasol's Tavern çok yakında açılıyor!
 subtitle: Ön kayıtlar başladı. Hemen kayıt ol!
-gh-repo: Ruasol/ruasol.github.io
+gh-repo: daattali/beautiful-jekyll
 gh-badge: [star]
 tags: [ruasol]
 comments: false
