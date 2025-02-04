@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımızda
+subtitle: Kimiz biz? Amacımız ne?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Ruasol Corporation kar amacı gütmeyen, herkese keyifli ortam sunmaya çalışan bir kuruluştur. Çeşitli oyunlarda bulunan aktifliği ile herkese adaletli ve unutulmaz bir oyun deneyimi yaşatmakla sunmakla kalmaz, aynı zamanda bunu hayata da geçirmeyi hedefler. Ruasol Corporation kuruluşunun temeli oyun değildir. Tekstil, kozmetik ve çeşitli alanlarda da faaliyet göstermesi beklenen bu kuruluşun diğer ürünleri çok yakında hizmetinize sunulacaktır.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### İletişim
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Mail: ruasolcorporation@gmail.com**
