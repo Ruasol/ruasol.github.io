@@ -13,7 +13,7 @@ author: Ruasol
 {: .box-success}
 Selam, ben Yusuf. Ruasol's Tavern 2024 Haziran ayından itibaren tarafımca geliştirilmekte olan Minecraft tabanlı bir RolePlay sunucusudur. Ön kayıtların başladığını belirtmekten mutluluk duyarım.
 
-![Ruasol](/assets/img/RuasolsTavern.jpg)
+![Ruasol](ruasol.github.io/assets/img/RuasolsTavern.jpg)
 
 ## Neden Ruasol's Tavern? Gerek var mıydı?
 
