@@ -2,12 +2,12 @@
 layout: post
 title: Ruasol's Tavern çok yakında açılıyor!
 subtitle: Ön kayıtlar başladı. Hemen kayıt ol!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [ruasol]
+gh-repo: Ruasol/ruasol.github.io
+gh-badge: [star]
+tags: [ruasols tavern]
 comments: false
 mathjax: true
-author: Ruasol Corporation
+author: Ruasol
 ---
 
 {: .box-success}
@@ -29,7 +29,7 @@ Aslında çok kolay. Minecraft tabanlı bir RolePlay sunucusu. Normal hayatta he
 Evet. Başladı! Şu an için ön kayıt alıyoruz ve sizden gerçek hayatta kullandığınız İsim, Soyisim, Yaş, Telefon Numarası gibi özel bilgilerinizi hem istiyor hem de bunu teyit etmenizi rica ediyoruz. Ruasol's Tavern her yaş kitlesine uygun bir sunucu türü değildir. Bu yüzden sunucumuza davet edeceğimiz misafirlerimizin **Minimum 14** yaşında olması bizler için oldukça önem arz etmektedir. Bunu da teyit edebilmek adına sizlerden ek doğrulamalar istememiz gerekiyor. **E-Nabız** üzerinden giriş kısmında **Adınız, Soy Adınız ve Yaşınızı** içeren bölümün minik bir resmini rica edeceğiz. Hiçbir şekilde kimlik bilgisi ya da kişinin daha detaylı özel bilgilerini istemiyoruz. Göndermiş olduğunuz resim hiçbir şekilde hiçbir amaç için kullanılmayacak, depolanmayacak ve hiçbir üçüncü parti yazılım/taraf şirketiyle paylaşılmayacaktır. Yaşınızı olduğundan farklı göstermeniz durumunda hesabınız askıya alınacak ve **Ruasol Corporation** tarafından sunulan bütün hizmetlerden muaf tutulacaksınız.
 
 {: .box-note}
-**Note:** Yaşınız 14'den küçükse ve oyunu çok oynamak istiyorsanız bir abiniz olarak ben bazen sizlere bazı platformlar aracılığıyla ekran açarak keyifli vakit geçirmenizi sağlayabilirim. İnan güzeller güzeli kardeşim, amacım tamamen senin güvenliğin. 
+**Not:** Yaşınız 14'den küçükse ve oyunu çok oynamak istiyorsanız bir abiniz olarak ben bazen sizlere bazı platformlar aracılığıyla ekran açarak keyifli vakit geçirmenizi sağlayabilirim. İnan güzeller güzeli kardeşim, amacım tamamen senin güvenliğin. 
 
 [Başvurmak için bana tıkla!](https://forms.gle/SrMMiUuEw2kekwwD7)
 
