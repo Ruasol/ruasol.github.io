@@ -1,95 +1,37 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Ruasol's Tavern çok yakında açılıyor!
+subtitle: Ön kayıtlar başladı. Hemen kayıt ol!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [ruasol]
+comments: false
 mathjax: true
-author: Bill Smith
+author: Ruasol Corporation
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Selam, ben Yusuf. Ruasol's Tavern 2024 Haziran ayından itibaren tarafımca geliştirilmekte olan Minecraft tabanlı bir RolePlay sunucusudur. Ön kayıtların başladığını belirtmekten mutluluk duyarım.
 
-**Here is some bold text**
+## Neden Ruasol's Tavern? Gerek var mıydı?
 
-## Here is a secondary heading
+RolePlay. Çoğumuz için inanılmaz derecede keyifli olabilen bir rol yapma eylemine deniyor. Aslında iletişimin ve özgür iradenin girdiği her yerde RolePlay yapmak mümkün. Minecraft çoğumuzun güzel anılarla büyüdüğü ve muazzam arkadaşlıklar biriktirdiği bir oyun. Ben de onlardan birisiyim. En yakın arkadaşlarımın hepsini neredeyse bu oyun sayesinde tanıdım ve artık kimimiz çalışan, kimimiz de evli barklı olmasına rağmen bu oyundan kopamadığımızı fark edince vaktimizi daha değerli kılabilmek adına bir fikir yürüttük. Her şey aramızda bir RolePlay yapalım, fatura ödeyelim, evlerimiz olsun mesleklerimiz olsun şeklindeydi ve aslında 2018 yılından itibaren ara ara Aternos ve Server.pro gibi ücretsiz sunucu sağlayan yerlerden çeşitli sunucular açtık, market yaptık ve gerçekten çok eğlendik. 2024 başlarında tekrardan bu fikirle içimiz doldu taştı ve aslında fikir yine aynıydı. Market açalım, emlakçı seçelim, muhtar seçelim gibi basit fikirlerle başladık inşa atmeye. Belli başlı yapıları yaptıktan sonra değerli ekip arkadaşlarımın hayatlarının yoğun olması dolayısıyla beni sunucuda biraz yalnız bıraktılar. Bu süreçte ben biraz fazla değer vermiş olmalıyım ki kafamı kaldırdığımda sunucuda görmüş/göreceğiniz Cassemir diyarını inşa etmişim. Nasıl yani? Dediğinizi duyar gibiyim. İnanın kafamı kaldırdığımda ben de aynı tepkiyi vermiştim. Ancak sizin gördüğünüz bu son hali elbette biz bu fikri aldıktan sonra 5 ay gibi bir süreç boyunca sürekli değişime uğradı. Yani kısacası mükemmelleştirildi. Ben sadece aramızda değil, bu keyfi hem herkese yaşatabilmek hem de herkesle yaşayabilmek adına bu projeyi hayata geçirme kararı almıştım. Şimdi burda, gecenin bir vakti bu blogu hazırlıyorum.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+## Nedir bu Ruasol's Tavern?
 
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
+Aslında çok kolay. Minecraft tabanlı bir RolePlay sunucusu. Normal hayatta hepimizin bir görevi var. Üstlendiği bir sorumluluk ve yüklendiği bir rol. Kimimiz amacını arıyorken, kimimiz amacını gerçekleştiriyor. Kimimiz amacını hayal ediyorken, kimimiz amacını hayata geçirdiği için başka insanlara hayal ya da umut oluyor. Ruasol's Tavern aslında hepsini yaşayabileceğiniz bir kişisel gelişim oyunu olabilir. Birbirinden farklı bir çok insanı tanıyacak, görecek ve belli kurallar içerisinde belli kalıplara sokulacaksınız. Gerçek hayatınızda yaşadığınız problemleri size unutturacak ve hayal ettiğiniz bir gerçeklikte, sonsuz bir gerçeklikte kaybolmanızı sağlayacak. Bu kötü bir şey değil. Bunda anlaşalım. Vaktini bildiğimiz her şey sağlıklıdır. Lütfen siz de bu sunucunun oyuncusu olmayı planlıyor ya da oyuncusuysanız bütün vaktinizi buraya vermeyin. İstanbul'dayım bir kahve içelim. :)
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Uyarı:** Her şeyin fazlası zararsa bu sadece oyun için geçerli değildir. Seçimlerinize de aynı şekilde dikkat edin. Kendiniz için hayır diyemediğiniz her cevap, kendinizi de gereğinden fazla tüketmenizle sonuçlanabilir. Unutmayın. Önce siz.
 
-### Error
+## Kayıtlar?
 
-{: .box-error}
-**Error:** This is an error box.
+Evet. Başladı! Şu an için ön kayıt alıyoruz ve sizden gerçek hayatta kullandığınız İsim, Soyisim, Yaş, Telefon Numarası gibi özel bilgilerinizi hem istiyor hem de bunu teyit etmenizi rica ediyoruz. Ruasol's Tavern her yaş kitlesine uygun bir sunucu türü değildir. Bu yüzden sunucumuza davet edeceğimiz misafirlerimizin **Minimum 14** yaşında olması bizler için oldukça önem arz etmektedir. Bunu da teyit edebilmek adına sizlerden ek doğrulamalar istememiz gerekiyor. **E-Nabız** üzerinden giriş kısmında **Adınız, Soy Adınız ve Yaşınızı** içeren bölümün minik bir resmini rica edeceğiz. Hiçbir şekilde kimlik bilgisi ya da kişinin daha detaylı özel bilgilerini istemiyoruz. Göndermiş olduğunuz resim hiçbir şekilde hiçbir amaç için kullanılmayacak, depolanmayacak ve hiçbir üçüncü parti yazılım/taraf şirketiyle paylaşılmayacaktır. Yaşınızı olduğundan farklı göstermeniz durumunda hesabınız askıya alınacak ve **Ruasol Corporation** tarafından sunulan bütün hizmetlerden muaf tutulacaksınız.
 
-## Local URLs in project sites {#local-urls}
+{: .box-note}
+**Note:** Yaşınız 14'den küçükse ve oyunu çok oynamak istiyorsanız bir abiniz olarak ben bazen sizlere bazı platformlar aracılığıyla ekran açarak keyifli vakit geçirmenizi sağlayabilirim. İnan güzeller güzeli kardeşim, amacım tamamen senin güvenliğin. 
 
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
+[Başvurmak için bana tıkla!](https://forms.gle/SrMMiUuEw2kekwwD7)
 
-![Crepe](/assets/img/crepe.jpg)
 
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+![Crepe](/assets/img/summer.png)
