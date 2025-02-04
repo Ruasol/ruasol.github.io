@@ -3,7 +3,7 @@ layout: post
 title: Ruasol's Tavern çok yakında açılıyor!
 subtitle: Ön kayıtlar başladı. Hemen kayıt ol!
 gh-repo: Ruasol/ruasol.github.io
-gh-badge: [star]
+gh-badge: 
 tags: [ruasols]
 comments: false
 mathjax: true
